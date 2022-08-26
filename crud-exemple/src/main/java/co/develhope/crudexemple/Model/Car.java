@@ -17,7 +17,9 @@ public class Car {
 
     // private List<Cars> carsList;
 
-    public Car(){}
+    public Car(){
+
+    }
     public Car(int id, String modelName, String type){
         this.id = id;
         this.modelName = modelName;
